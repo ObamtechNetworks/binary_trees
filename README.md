@@ -7,7 +7,7 @@ This project focuses on implementing and manipulating binary trees in the C prog
 - Collaborator 2: [Arowolo Olasunkanmi Muritahdor](https://github.com/armolas)
 
 # Project Timeline
-- Project Start Date: January 2, 2024, 6:00 AM
+- Project Start Date: January 2, 2024, 6:00 AM. 
 - Project End Date: January 5, 2024, 6:00 AM. 
 - Checker Release: January 3, 2024, 12:00 AM. 
 - Auto Review Deadline: January 5, 2024. 
