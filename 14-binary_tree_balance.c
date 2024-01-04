@@ -36,7 +36,7 @@ size_t binary_tree_height(const binary_tree_t *tree)
 	return (max(left_height, right_height));
 }
 /**
- * binary_tree_height - measures the height of a binary tree
+ * binary_tree_balance - measures the height of a binary tree
  * @tree: pointer to the root noe of the tree to measure
  * Return: 0 if tree is NULL
  */
