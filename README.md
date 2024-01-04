@@ -4,7 +4,7 @@ This project focuses on implementing and manipulating binary trees in the C prog
 
 # Team Members
 - Collaborator 1: [Ipadeola Bamidele Michael](https://github.com/obamtechnetworks)
-- Collaborator 2: [Arowolo Olasunkanmi Muritahdor](https://github.com/armolas)
+- Collaborator 2: [Arowolo Olasunkanmi Muritadhor](https://github.com/armolas)
 
 # Project Timeline
 - Project Start Date: January 2, 2024, 6:00 AM. 
